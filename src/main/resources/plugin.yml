@@ -1,0 +1,11 @@
+name: MarketEconomy
+version: '${project.version}'
+main: com.cactt4ck.marketeconomy.MarketEconomy
+api-version: 1.19
+author: CacTt4ck
+database: false
+description: This plugin adds a market system with evolving prices in the game
+website: https://github.com/CacTt4ck
+prefix: MarketEconomy
+
+commands:
